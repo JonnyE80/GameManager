@@ -3,3 +3,5 @@ Just a project i am working on, if you decide to install it do not install it in
 Updates is handled from this github with updated Version.txt and gamemanager.exe. 
 
 It's only available in Swedish for the time being. English language will be available soon. 
+
+Categories is bugged at the moment. Fix will come soon. 
